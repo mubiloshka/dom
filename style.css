@@ -1,0 +1,13 @@
+body {
+  background-color: palevioletred;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px; 
+  margin: 0;
+  color: white;
+}
+
+#nameDisplay {
+  font-size: 60px;
+}
